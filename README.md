@@ -4,11 +4,6 @@ A clean, responsive weekly meal planner built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## 📸 Preview
-
-![Screenshot](screenshot.png) <!-- Replace with actual screenshot path if you add one -->
-
----
 
 ## ✨ Features
 
